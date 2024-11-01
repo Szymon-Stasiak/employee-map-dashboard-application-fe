@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "fullName": "John Doe",
+    "position": "Software Engineer",
+    "squad": "Development Team",
+    "department": "Engineering Department",
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "postCode": "12345",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    }
+  },
+  {
+    "id": "2",
+    "fullName": "Alice Smith",
+    "position": "Product Manager",
+    "squad": "Product Management Team",
+    "department": "Product Management Department",
+    "address": {
+      "street": "456 Elm Street",
+      "city": "Another City",
+      "state": "NY",
+      "postCode": "54321",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    }
+  },
+  {
+    "id": "3",
+    "fullName": "Robert Johnson",
+    "position": "Data Scientist",
+    "squad": "Data Science Team",
+    "department": "Data Science Department",
+    "address": {
+      "street": "789 Oak Street",
+      "city": "Somewhere",
+      "state": "TX",
+      "postCode": "98765",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 32.7767,
+        "lng": -96.797
+      }
+    }
+  },
+  {
+    "id": "4",
+    "fullName": "Emily Brown",
+    "position": "UX Designer",
+    "squad": "Design Team",
+    "department": "Design Department",
+    "address": {
+      "street": "101 Pine Street",
+      "city": "Cityville",
+      "state": "FL",
+      "postCode": "54321",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 27.9506,
+        "lng": -82.4572
+      }
+    }
+  },
+  {
+    "id": "5",
+    "fullName": "Michael Wilson",
+    "position": "Frontend Developer",
+    "squad": "Web Development Team",
+    "department": "Web Development Department",
+    "address": {
+      "street": "222 Chestnut Street",
+      "city": "Hometown",
+      "state": "IL",
+      "postCode": "12345",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    }
+  },
+  {
+    "id": "6",
+    "fullName": "Sophia Jones",
+    "position": "Marketing Specialist",
+    "squad": "Marketing Team",
+    "department": "Marketing Department",
+    "address": {
+      "street": "333 Maple Street",
+      "city": "Smalltown",
+      "state": "OH",
+      "postCode": "98765",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 39.9612,
+        "lng": -82.9988
+      }
+    }
+  },
+  {
+    "id": "7",
+    "fullName": "Ethan Davis",
+    "position": "QA Tester",
+    "squad": "Quality Assurance Team",
+    "department": "Quality Assurance Department",
+    "address": {
+      "street": "444 Birch Street",
+      "city": "Villageville",
+      "state": "PA",
+      "postCode": "54321",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    }
+  },
+  {
+    "id": "8",
+    "fullName": "Isabella Wilson",
+    "position": "Back-End Developer",
+    "squad": "Web Development Team",
+    "department": "Web Development Department",
+    "address": {
+      "street": "555 Willow Street",
+      "city": "Suburbia",
+      "state": "CA",
+      "postCode": "12345",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    }
+  },
+  {
+    "id": "9",
+    "fullName": "Mason Taylor",
+    "position": "Business Analyst",
+    "squad": "Business Analysis Team",
+    "department": "Business Analysis Department",
+    "address": {
+      "street": "666 Cedar Street",
+      "city": "Metroville",
+      "state": "NY",
+      "postCode": "98765",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    }
+  },
+  {
+    "id": "10",
+    "fullName": "Ava Martinez",
+    "position": "Database Administrator",
+    "squad": "Database Team",
+    "department": "Database Administration Department",
+    "address": {
+      "street": "777 Oak Street",
+      "city": "Cityburg",
+      "state": "TX",
+      "postCode": "12345",
+      "country": "USA",
+      "lat_lng": {
+        "lat": 32.7767,
+        "lng": -96.797
+      }
+    }
+  }
+]
